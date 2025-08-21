@@ -1,6 +1,6 @@
 # Cloud drive
 
-A cloud file storage and management system inspired by Google Drive.  
+A cloud file storage and management system. 
 Features folder navigation, file uploading, authentication, and more.  
 
 ## TODO
