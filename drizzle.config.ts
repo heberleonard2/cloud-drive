@@ -8,5 +8,5 @@ export default {
   dbCredentials: {
     url: env.DATABASE_URL,
   },
-  tablesFilter: ["drive-clone_*"],
+  tablesFilter: ["cloud-drive*"],
 } satisfies Config;
