@@ -1,7 +1,9 @@
 # Cloud drive
 
 A cloud file storage and management system. 
-Features folder navigation, file uploading, authentication, and more.  
+Features folder navigation, file uploading, authentication, and more.
+
+![Demo](./assets/demo.gif)
 
 ## TODO
 
